@@ -1,14 +1,14 @@
 !
 ! Title: Roku Ad's Blocklist
 ! Description: Blocklist for Roku Ads
-! Homepage: https://github.com/soriaj/roku-blocklists
+! Homepage: https://github.com/soriaj/roku-blocklist
 ! Last modified: 2024-05-30T15:05:44.085Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
 !
 ! Source name: Roku Blocklist
-! Source: https://raw.githubusercontent.com/soriaj/roku-blocklists/main/roku-blocklist.txt
+! Source: https://raw.githubusercontent.com/soriaj/roku-blocklist/main/roku-blocklist.txt
 !
 ! Title: Roku Ad's Blocklist
 ! Expires: 1 day
