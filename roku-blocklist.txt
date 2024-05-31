@@ -1,0 +1,31 @@
+!
+! Title: Roku Ad's Blocklist
+! Description: Blocklist for Roku Ads
+! Homepage: https://github.com/soriaj/roku-blocklists
+! Last modified: 2024-05-30T15:05:44.085Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.24
+!
+!
+! Source name: Roku Blocklist
+! Source: https://raw.githubusercontent.com/soriaj/roku-blocklists/main/roku-blocklist.txt
+!
+! Title: Roku Ad's Blocklist
+! Expires: 1 day
+! Last modified: 30 May 2024 13:25 UTC
+! Version: 2024.0530.1325.04
+! Syntax: AdBlock
+! Number of entries: 12
+!
+||ads.roku.com^
+||cloudservices.roku.com^
+||images.roku.com^
+||web.roku.com^
+||prod.mobile.roku.com^
+||wwwimg.roku.com^
+||captive.roku.com^
+||customer-feedbacks.roku.com^
+||amoeba.roku.com^
+||amoeba2.roku.com^
+||sr.roku.com^
+||giga.sb.roku.com^
